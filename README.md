@@ -10,9 +10,9 @@ cd <project-directory>
 - npm install
 ### Usage
 - Webpack Dev Server istifade ederek appnizi ise salmaq ucun:
-- npm start
+  - npm start
 - Proyekti yığmaq üçün:
-- npm run build
+ - npm run build
 - Bu emr islendikden sonra appniz dist filesinde yigilmis sekilde olacaqdir.
 ## Project Structure
 - src/: Main kod ve resurslar burda yerlesir
