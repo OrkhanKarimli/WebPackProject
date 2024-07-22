@@ -1,0 +1,12 @@
+body {
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+h1 {
+    color: green;
+}
+.img-style{
+    width: 300px !important;
+   
+}
