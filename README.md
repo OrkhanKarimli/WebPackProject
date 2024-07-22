@@ -3,9 +3,9 @@ Bu lahiye sade bir webpack appi qaldirmaq ucundur
 
 ## Installation
 1. **Lahiyeni Klonlayin**
-git clone <https://github.com/OrkhanKarimli/WebPackProject.git>
-cd <project-directory>
-2. Dependenciesleri qurasdirin
+  1. git clone <https://github.com/OrkhanKarimli/WebPackProject.git>
+  2. cd <project-directory>
+2. Dependenciesleri qurasdirin:
 - npm init -y
 - npm install
 ### Usage
