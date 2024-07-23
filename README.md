@@ -12,7 +12,7 @@ Bu lahiye sade bir webpack appi qaldirmaq ucundur
   - npm start
 - Proyekti yığmaq üçün (Bu emr islendikden sonra appniz dist filesinde yigilmis sekilde olacaqdir):
   - npm run build
- 
+- Proyekt basladildiqda <http://localhost:8082/> da run olunacaq
 ## Project Structure
 - src/: Main kod ve resurslar burda yerlesir
 
